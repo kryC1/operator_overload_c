@@ -16,12 +16,12 @@ As is the case with lex, when you use yacc the output is a file containing code 
 
 
 • Makefile
-– This is the file that is used to build the project. You can build the project by just typing make on the command line.
-• calc.l
-– This file contains the lex specification for the calculator project.
-• calc.y
-– This file contains the yacc specification for the calculator project.
-• input.txt
+– This is the file that is used to build the project. You can build the project by just typing make on the command line.<br />
+• calc.l<br /><br />
+– This file contains the lex specification for the calculator project.<br />
+• calc.y<br /><br />
+– This file contains the yacc specification for the calculator project.<br />
+• input.txt<br /><br />
 – This file contains list of mathematical function that you are going to test your calculator.
 
 
